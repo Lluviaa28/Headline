@@ -1,0 +1,153 @@
+{"menu":[
+    {
+        "id":1,
+        "Nombre":"Hamburguesa",
+        "Descripcion":"Doble carne, queso amarillo, lechuga, cebolla, tomate, aguacate",
+        "Precio":90,
+        "Imagen":"img/hambu.jpg"
+    },
+    {
+        "id":2,
+        "Nombre":"Tacos Piratas",
+        "Descripcion":"Tacos de tortilla de maiz, carne de bisteck, carne de trompo, cebolla, cilantro, pico de gallo, cebolla asada, salsa",
+        "Precio":100,
+        "Imagen":"img/tac.jpg"
+    },
+    {
+        "id":3,
+        "Nombre":"Pizzas Mini",
+        "Descripcion":"Pizza grande, mediana, chica, peperoni, queso mozarella, jamon, piña, chorizo",
+        "Precio":99,
+        "Imagen":"img/pizz.jpg"
+    },
+    {
+        "id":4,
+        "Nombre":"Burritos",
+        "Descripcion":"De desebrada, pizza, frijoles con chorizo, pollo, carne molida, hawaiano, salsa, ketchup, guacamole, papas",
+        "Precio":30,
+        "Imagen":"img/burri.jpg"
+    },
+    {
+        "id":5,
+        "Nombre":"Papas",
+        "Descripcion":"Papas a la francesa, queso amarillo, queso mozarella, queso parmesano, tocino, ketchup, jamon, aderezo belga, aderezo tartara",
+        "Precio":60,
+        "Imagen":"img/paps.jpg"
+    },
+    {
+        "id":6,
+        "Nombre":"Boneless",
+        "Descripcion":"Pollo en forma de bolita, BBQ, Bufalo, Parmesano, Mango habanero, Limon peper, aderezo ranch, zanahoria, apio, papas fritas",
+        "Precio":150,
+        "Imagen":"img/bonl.jpg"
+    },
+    {
+        "id":7,
+        "Nombre":"Hot Dogs",
+        "Descripcion":"De salchicha normal o de asar, tomate, cebolla, aguacate, tocino, papas, ketchup, salsa",
+        "Precio":25,
+        "Imagen":"img/hotd.jpg"
+    },
+    {
+        "id":8,
+        "Nombre":"Tortas",
+        "Descripcion":"De jamon y queso, desebrada, pierna, carne, lechuga, tomate, cebolla, aguacate, salsa, crema, papas",
+        "Precio":30,
+        "Imagen":"img/torts.jpg"
+    },
+    {
+        "id":9,
+        "Nombre":"Tamales",
+        "Descripcion":"Veracruzanos, queso con rajas, pollo, frijoles, picadillo, lechuga, salsa ",
+        "Precio":80,
+        "Imagen":"img/tamals.jpg"
+    },
+    {
+        "id":10,
+        "Nombre":"Entomatadas",
+        "Descripcion":"De pollo, queso, lechuga, cebolla, crema, aguacate",
+        "Precio":45,
+        "Imagen":"img/entomi.jpg"
+    }
+],
+"complementos":[
+{
+    "id":11,
+        "Nombre":"Queso amarillo",
+        "Precio":10,
+        "Imagen":"img/quesoA.jpg"
+},
+{
+    "id":12,
+        "Nombre":"Pico de gallo",
+        "Precio":15,
+        "Imagen":"img/picodeG.jpg"
+},
+{
+    "id":13,
+        "Nombre":"Cebolla Asada",
+        "Precio": 15,
+        "Imagen":"img/cebollaA.jpg"
+},
+{
+    "id":14,
+        "Nombre":"Salsa",
+        "Precio": 10,
+        "Imagen":"img/salsas.jpg"
+},
+{
+    "id":15,
+        "Nombre":"Crema",
+        "Precio": 12,
+        "Imagen":"img/crema.jpg"
+},
+{
+    "id":16,
+        "Nombre":"Guacamole",
+        "Precio": 20,
+        "Imagen":"img/guaca.jpg"
+},
+{
+    "id":17,
+        "Nombre":"Tocino",
+        "Precio": 20,
+        "Imagen":"img/tocin.jpg"
+},
+{
+    "id":18,
+        "Nombre":"Ketchup",
+        "Precio": 10,
+        "Imagen":"img/ketchu.jpg"
+},
+{
+    "id":19,
+        "Nombre":"Aderezo Ranch",
+        "Precio": 15,
+        "Imagen":"img/aderezoR.jpg"
+},
+{
+    "id":20,
+        "Nombre":"Aderezo Tartara",
+        "Precio": 15,
+        "Imagen":"img/aderezoT.jpg"
+},
+{
+    "id":21,
+        "Nombre":"Aderezo Belga",
+        "Precio": 15,
+        "Imagen":"img/aderezoB.jpg"
+},
+{
+    "id":22,
+        "Nombre":"Queso Parmesano",
+        "Precio": 18,
+        "Imagen":"img/quesoP.jpg"
+},
+{
+    "id":23,
+        "Nombre":"Queso Mozarella",
+        "Precio": 18,
+        "Imagen":"img/quesoM.jpg"
+}
+]
+}
